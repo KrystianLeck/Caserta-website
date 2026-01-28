@@ -4,7 +4,7 @@
 **Check out the live site here:** [https://krystianleck.github.io/Caserta-website/strona_glowna.html](https://krystianleck.github.io/Caserta-website/strona_glowna.html)
 
 ## 📝 Project Description
-**Caserta** is a front-end web project created for a local restaurant/pizzeria business. The primary focus was to deliver a clean, modern user interface that is fully optimized for various screen sizes, ensuring a seamless user experience on both mobile and desktop devices.
+**Caserta** is a front-end web project created for a fictional restaurant/pizzeria business. The primary focus was to deliver a clean, modern user interface that is fully optimized for various screen sizes, ensuring a seamless user experience on both mobile and desktop devices.
 
 ## 🛠️ Tech Stack
 * **HTML5:** Semantic markup for better structure and SEO.
